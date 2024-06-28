@@ -1,6 +1,7 @@
 import { Link } from "../App.types";
 import css from "./ImageCard.module.css";
 
+
 interface ImageCardProps {
   imgLink: Link;
   imgSlug: string;
